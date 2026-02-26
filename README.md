@@ -1,2 +1,10 @@
-# Carrinho-Shopee-aula-Digital-Inovation-one
-Projeto do curso da Digital inovation One - DIO Curso NODE aula Carrinho Shope
+## Objetivo
+
+Criar um carrinho e compras baseado no carrinho de compras o shopee, ondde armaena itens e faça o calculo e sub itens automaticamente
+
+
+// dominio da aplicacao carrinho dde compras
+
+// as entidades apresentaass 
+// carrinho cart.js
+// itens  item.js
